@@ -1,3 +1,4 @@
+<img src="https://learnwithshikha.com/wp-content/uploads/2021/01/web-deve.png">
 <h1 align="center">Hi 👋, I'm Sachin Silva</h1>
 <h3 align="center">A passionate full Stack developer from Sri Lanka</h3>
 
