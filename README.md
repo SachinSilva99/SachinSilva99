@@ -1,4 +1,4 @@
-<img src="https://learnwithshikha.com/wp-content/uploads/2021/01/web-deve.png">
+<img src="https://skilltouchng.com/images/compschool_tabs/full-stack-developer%20abuja%20learnwebdevelopment%20fast.png">
 <h1 align="center">Hi 👋, I'm Sachin Silva</h1>
 <h3 align="center">A passionate full Stack developer from Sri Lanka</h3>
 
