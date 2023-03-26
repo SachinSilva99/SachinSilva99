@@ -1,4 +1,4 @@
-<img src="https://skilltouchng.com/images/compschool_tabs/full-stack-developer%20abuja%20learnwebdevelopment%20fast.png">
+<img src="https://ng.loozap.com/common/file?path=files/ng/jil_04-10-2021_05-10-2021/listings360_bzk3oit__1950f06d50901c1b02188aac6c61803778459722.jpg">
 <h1 align="center">Hi 👋, I'm Sachin Silva</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
