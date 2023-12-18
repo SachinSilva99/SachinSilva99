@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinsilva99" alt="sachinsilva99" /></a> </p>
 
-- 🔭 I’m currently working on [Restaurant Management System](https://github.com/SachinSilva99/lms-layered-maven-finalProject)
+- 🔭 I’m currently working on [Job Seekers]([https://github.com/SachinSilva99/lms-layered-maven-finalProjec](https://github.com/SachinSilva99/job-seeker))
 
 - 👨‍💻 All of my projects are available at [https://sachinsilva99.github.io/MyProfile/](https://sachinsilva99.github.io/MyProfile/)
 
